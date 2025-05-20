@@ -47,9 +47,15 @@ Hello, I’m Hatice Zümrüt. I’ve been driving data analysis and pricing stra
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://github.com/zumhat7/zumhat7/assets/64533977/a6f9a4a3-2356-4088-8477-d609b01aa2be)](https://www.linkedin.com/in/haticezumrut)  
-[![GitLab](https://github.com/zumhat7/zumhat7/assets/64533977/6716b8e4-7aa1-44a8-9a90-1180c25da839)](https://gitlab.com/zum.hatice)
+<p align="center">
+  <a href="https://www.linkedin.com/in/haticezumrut">
+    <img src="https://github.com/zumhat7/zumhat7/assets/64533977/a6f9a4a3-2356-4088-8477-d609b01aa2be" width="24" alt="LinkedIn" />
+  </a>
+  <a href="https://gitlab.com/zum.hatice">
+    <img src="https://github.com/zumhat7/zumhat7/assets/64533977/6716b8e4-7aa1-44a8-9a90-1180c25da839" width="24" alt="GitLab" />
+  </a>
+</p>
 
 ---
 
-> ✨ Always exploring new data challenges and open to collaboration. Feel free to reach out!  
+> ✨ Always exploring new data challenges and open to collaboration. Feel free to reach out!
